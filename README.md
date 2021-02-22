@@ -1,2 +1,0 @@
-# sgdesgined
-self made website
